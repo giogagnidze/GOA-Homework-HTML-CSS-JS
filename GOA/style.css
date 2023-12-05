@@ -1,0 +1,58 @@
+
+p {
+    color: rgb(8, 118, 47);
+    text-align: center;
+}
+h1 {
+    color: rgb(8, 118, 47);
+}
+a {
+    color: rgb(8, 118, 47);
+}
+label {
+    color: rgb(8, 118, 47);
+}
+input {
+    background-color: rgb(1, 55, 1);
+}
+h4 {
+    color: rgb(8, 118, 47);
+}
+h2 {
+    color: rgb(8, 118, 47);
+}
+h3 {
+    color: rgb(8, 118, 47);
+}
+
+#facebook_youtube_links{
+    text-align: center;
+}
+
+#froms{
+    text-align: center;
+}
+
+#leaders{
+    text-align: center;
+}
+
+.txt{
+    color: green;
+}
+
+#lastimg{
+    margin-left: 300px;
+}
+
+#aboutus{
+    margin-left: 800px;
+    font-size: 20px;
+}
+body{
+    font-family: Raleway;
+}
+
+input::placeholder {
+    font-family: Raleway;
+}

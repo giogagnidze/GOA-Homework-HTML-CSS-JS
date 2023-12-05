@@ -1,0 +1,38 @@
+
+.form{
+    text-align: center;
+    border: 5px solid rgb(255, 255, 255);
+    width: 500px;
+    margin-left: 500px;
+    background-color: rgb(20, 20, 20);
+    border-radius: 50px ;
+}
+#welcome{
+    text-align: center;
+    font-size: 50px;
+}
+#signin{
+    font-size: 40px;
+}
+body{
+    background: url(/Photos/old-black-background-grunge-texture-dark-wallpaper-blackboard-chalkboard-room-wall_1258-28313.avif);
+    height: 100vh;
+    background-attachment: fixed;
+    font-family: Raleway;
+}
+input {
+    font-size: 15px;
+    border-radius: 3px ;
+}
+
+input::placeholder {
+    font-family: Raleway;
+}
+
+#ssignin{
+    text-decoration: none;
+}
+#goalink{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}

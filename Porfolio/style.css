@@ -1,0 +1,101 @@
+#name{
+    text-align: center;
+    font-size: 40px;
+    height: 100px;
+    color: rgb(40, 110, 222)
+}
+
+header{
+    background-color: rgb(66, 135, 245)
+    
+}
+
+#nlba{
+    margin-top: 50px;
+    margin-left: 50px;
+    color:  rgb(66, 135, 245);
+    margin-right: 100px;
+}
+#about{
+    margin-top: 0px;
+    margin-left: 50px;
+    color:  rgb(66, 135, 245);
+}
+#phc{
+    margin-top: 50px;
+    margin-left: 50px;
+    color:  rgb(66, 135, 245);
+}    
+#education{
+    margin-top: 50px;
+    margin-left: 50px;
+    color:  rgb(66, 135, 245);
+}
+#hhrr{
+    width: 650px;
+}
+body{
+    border: 5px solid rgb(12, 201, 198);
+    width: 50%;
+    margin-left: 400px;
+    background-color: rgb(2, 21, 54);
+}
+#imggithub{
+    background-color: rgb(2, 21, 54);
+    width: 60px;
+}
+#imgfacebook{
+    background-color: rgb(2, 21, 54);
+    width: 30px;
+}
+#imginstagram{
+    background-color: rgb(2, 21, 54);
+    width: 30px;
+}
+
+#github{
+    margin-left: 50px;
+}
+#facebook{
+    margin-left: 50px;
+}
+#instagram{
+    margin-left: 50px;
+}
+#soclink{
+    text-align: center;
+    color:  rgb(66, 135, 245);
+}
+#imgsololearn{
+    background-color: rgb(2, 21, 54);
+    width: 100px;
+}
+#sololearn{
+    margin-left: 50px;
+}
+.imgw{
+    width: 500px;
+    margin-left: 50px;
+}
+#pyproj{
+    color:  rgb(66, 135, 245);
+    text-align: center;
+}
+.project{
+    color:  rgb(66, 135, 245);
+    margin-left: 50px;
+}
+#pfp{
+    width: 100px;
+    margin-left: 50px;
+}
+#certificate{
+    margin-left: 50px;
+    text-align: center;
+    width: 500px;
+    margin-bottom: 30px;
+}
+#psololearn{
+    margin-left: 50px;
+    color:  rgb(66, 135, 245);
+}
